@@ -4,7 +4,7 @@ We all programmers works very hard and some of us sit on chair and do the progra
 
 Which causes eyes weaks and we don't drink water or we don't leave the chair which causes back pain in whole day which make us unhealthy <br>
 
-To solve this problem I have make a program wich alert us to drink water , eyes exercise , to do physical exericse by playing a song for your healthy body <br>
+To solve this problem I have make a program wich alert us to drink water , eyes exercise , to do physical exericse by playing a song for your healthy body 
 
 <h1>Requirements</h1>
 <p>python3 and pygame module</p>
