@@ -16,3 +16,10 @@ To solve this problem I have make a program wich alert us to drink water , eyes 
 <p>Simply you have to only run this command on your terminal or command prompt</p>
 <p>pip install pygame </p> 
 
+
+<h1> Author </h1>
+Name = Nikhil Raj<br>
+Class = VIII<br>
+Age = 12 years<br>
+
+you can use this code for any purpose
