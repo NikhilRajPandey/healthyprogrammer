@@ -25,3 +25,5 @@ Class = VIII<br>
 Age = 12 years<br>
 
 you can use this code for any purpose
+
+Warning: On 2022 I found out that this code is poorly written so pleas don't use it It was just for my python practice back in 2018
